@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+    color:black;
+    transition: 1s ease;
+}
+
+.obscurito{
+    background-color: black;
+    
+}
+
+.container{
+    margin-top: 5%;
+}
+
+img{
+    width: 120px;
+    height: 60px;
+    align-items: flex-end;
+}
+
+#mostrarContenidos{
+    margin-top: 2em;
+    margin-bottom: 2em;
+    width: 100%;
+    display: table;
+    text-align:center;
+}
